@@ -5,4 +5,4 @@
 
 ### Внутри проекта прописать: `npm start`
 
-### Был задейсnвован требуемый стек (React, MobX, Tailwind CSS), для работы с API GitHub использовался axios, для навигации - react-router-dom
+### Был задействован требуемый стек (React, MobX, Tailwind CSS), для работы с API GitHub использовался axios, для навигации - react-router-dom
